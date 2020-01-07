@@ -4,7 +4,7 @@
 </head>
 <body>
 	<?php
-	echo 'こんにちは。世界！';
+	echo 'こんにちは。世界1！';
 	echo "<br/>";
 	echo 'こんにちは、皆さん';
 	?>
